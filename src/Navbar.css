@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+
+#home {
+    background-color: rgb(255, 196, 0);
+    width: 1918px;
+    margin-top: 57px;
+    margin-right: 100px;
+    padding-left: 100px;
+    padding-top: 100px;
+    padding-bottom: 100px
+};
